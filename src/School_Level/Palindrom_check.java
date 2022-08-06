@@ -1,3 +1,5 @@
+package School_Level;
+
 import java.util.Scanner;
 
 public class Palindrom_check {

@@ -1,3 +1,5 @@
+package School_Level;
+
 public class new1 {
     public static void main(String[] args) {
         String a= "JavaProgramming";

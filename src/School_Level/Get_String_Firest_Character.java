@@ -1,3 +1,5 @@
+package School_Level;
+
 import java.util.Scanner;
 
 public class Get_String_Firest_Character {

@@ -1,3 +1,5 @@
+package School_Level;
+
 public class sum_smallest_prime_mno {
     public static void main(String[] args) {
         int i,m=0,flag=0;

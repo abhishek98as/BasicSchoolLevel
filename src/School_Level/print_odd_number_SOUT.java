@@ -1,3 +1,5 @@
+package School_Level;
+
 public class print_odd_number_SOUT {
     public static void main(String[] args) {
         for(int i=1; i<=20; i++){

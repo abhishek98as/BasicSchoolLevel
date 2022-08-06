@@ -1,4 +1,4 @@
-//Problem:- Print a string whose a first letter is capital.
+package School_Level;//Problem:- Print a string whose a School_Level.first letter is capital.
 
 import java.util.Scanner;
 //import scanner class for take input.

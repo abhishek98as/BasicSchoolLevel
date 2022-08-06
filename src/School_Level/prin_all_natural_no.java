@@ -1,3 +1,5 @@
+package School_Level;
+
 public class prin_all_natural_no {
     public static void main(String[] args) {
         int i = 0 ;
